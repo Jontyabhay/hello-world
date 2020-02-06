@@ -1,2 +1,4 @@
 # hello-world
-HELLO WORLD
+Hi Humans!
+
+I like kali linux and node.js. I study Msc in Ireland.
